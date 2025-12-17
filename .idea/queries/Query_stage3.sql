@@ -27,5 +27,17 @@ END STAGE 3 Query
 /*
 Other Solution:
 --
-
+SELECT
+    CONCAT(t.town_from, '-', t.town_to) AS route,
+    AVG(TIMESTAMPDIFF(MINUTE, t.time_out, t.time_in)) AS avg_flight_duration,
+    COUNT(pit.ID_psg) AS total_passengers,
+    ROUND(SUM(TIMESTAMPDIFF(SECOND, t.time_out, t.time_in)) / 100) AS total_income
+FROM
+    Trip t
+LEFT JOIN
+    Pass_in_trip pit ON t.trip_no = pit.trip_no
+GROUP BY
+    route
+ORDER BY
+    total_income DESC;
  */
