@@ -1,0 +1,16 @@
+route,avg_flight_duration,total_passengers,total_income
+Miami-Dubai,2010,2,2412
+New York-London,720,2,864
+Los Angeles-Tokyo,1350,1,810
+New York-Paris,600,2,720
+Chicago-Paris,1155,1,693
+Los Angeles-Chicago,270,4,648
+Chicago-Dallas,255,4,612
+New York-Los Angeles,248,4,594
+Dallas-Miami,213,4,510
+Miami-New York,210,4,504
+Dallas-Sydney,810,1,486
+Chicago-Miami,255,1,153
+Dallas-Los Angeles,195,1,117
+Miami-Los Angeles,195,1,117
+Los Angeles-New York,195,1,117

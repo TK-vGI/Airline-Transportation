@@ -12,10 +12,10 @@ how to use the AI tools in your work effectively.
 Alter the passenger's trip table to adjust date data types and synchronize trip dates with departure times to ensure data consistency.
 
 ## Stage 2/6: Identifying Key Passengers
-Identify the names of passengers who frequently fly with specific airline companies.
+Identify the names of passengers who frequently fly with specific airline companies.  
 
 ## Stage 3/6: Route Performance Analysis
-Analyze flight routes by calculating average flight duration, total passengers, and income generated per route.
+Analyze flight routes by calculating average flight duration, total passengers, and income generated per route.  
 
 ## Stage 4/6: Boeing vs Airbus Comparison
 Compare flight durations and frequencies between Boeing and Airbus aircraft types.
