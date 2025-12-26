@@ -1,5 +1,5 @@
 /*
-START STAGE 3 Query
+START STAGE 4 Query
 */
 SELECT
     'Boeing' AS aircraft_type,
@@ -24,7 +24,7 @@ WHERE plane_type LIKE 'Airbus%'
   AND town_from <> town_to;
 
 /*
-END STAGE 3 Query
+END STAGE 4 Query
 */
 
 /*
