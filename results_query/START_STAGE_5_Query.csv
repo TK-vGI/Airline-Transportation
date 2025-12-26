@@ -1,0 +1,11 @@
+company_name,departure_city,arrival_city,avg_flight_duration
+American Airlines,Los Angeles,Tokyo,1350.0000
+American Airlines,Los Angeles,Chicago,270.0000
+Delta Airlines,New York,London,720.0000
+Delta Airlines,New York,Los Angeles,247.5000
+JetBlue Airways,Miami,Dubai,2010.0000
+JetBlue Airways,Miami,New York,210.0000
+Southwest Airlines,Dallas,Sydney,810.0000
+Southwest Airlines,New York,Paris,600.0000
+United Airlines,Chicago,Paris,1155.0000
+United Airlines,Chicago,Dallas,255.0000
