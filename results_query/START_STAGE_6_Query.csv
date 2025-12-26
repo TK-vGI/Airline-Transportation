@@ -1,0 +1,11 @@
+ID_psg,passenger_name,passenger_income_dollars,cumulative_share_percent,category
+1,John Smith,2367.00,25.30,A
+2,Mary Johnson,2340.00,50.30,A
+6,Jennifer Davis,2124.00,73.00,A
+4,Patricia Jones,1206.00,85.89,B
+7,Richard Wilson,381.00,89.96,B
+3,James Williams,315.00,93.33,B
+10,Barbara Taylor,243.00,95.93,C
+8,Linda Martinez,138.00,97.40,C
+9,David Anderson,126.00,98.75,C
+5,Michael Brown,117.00,100.00,C
